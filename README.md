@@ -1,6 +1,6 @@
 ### 🚀 Things I do
 
-- **NLP Engineer**, contributing on **Korean NLP** with Open Source!
+- **CV/ML Researcher**
 
 ### 📬 Find me at
 
