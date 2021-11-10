@@ -10,6 +10,8 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False)](https://github.com/jumpsnack)
 
+![Visitor Count](https://profile-counter.glitch.me/jumpsnack/count.svg)
+
 <!--
 **jumpsnack/jumpsnack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
