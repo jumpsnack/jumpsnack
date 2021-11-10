@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddiesangwonkim@gmail.com)](mailto:eddiesangwonkim@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jumpsnack.github.io/)](https://jumpsnack.github.io/) 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False)](https://github.com/jumpsnack)
+[![github stats](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False)](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False)
 
 ![Visitor Count](https://profile-counter.glitch.me/jumpsnack/count.svg)
 
