@@ -25,6 +25,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangwon-kim-539a00196/)](https://www.linkedin.com/in/sangwon-kim-539a00196/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddiesangwonkim@gmail.com)](mailto:eddiesangwonkim@gmail.com)
+[![Research Gate Badge](https://img.shields.io/badge/-LinkedIn-00CCBB.svg?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Sangwon-Kim/)](https://www.researchgate.net/profile/Sangwon-Kim/)
 [![Web Page Badge](http://img.shields.io/badge/-Web%20Page-black?style=flat-square&logo=github&link=https://jumpsnack.github.io/)](https://jumpsnack.github.io/) &larr; **Find my recent publications**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False&theme=radical)
