@@ -13,6 +13,8 @@
 <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img alt="Scikit-learn" src ="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=flat-square&logo=Scikit-learn&logoColor=white"/>
 <img alt="Numpy" src ="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white"/>
+<img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/JAVA-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C--lang-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=csharp&logoColor=white"/>
