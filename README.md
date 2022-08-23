@@ -1,16 +1,36 @@
-### 🚀 Things I do
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Sangwon%20Kim👋&fontSize=80&fontAlignY=38&desc=CV/ML%20Researcher&descAlignY=60&descAlign=50)
 
-- **CV/ML Researcher**
+### 🔭 Research Interests
+- Computer Vision
+- eXplainable AI
+- Post CNN
+
+### 🚀 Languages and Tools
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+<img alt="CUDA" src ="https://img.shields.io/badge/CUDA-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white"/>
+<img alt="Pytorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
+<img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img alt="Scikit-learn" src ="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=flat-square&logo=Scikit-learn&logoColor=white"/>
+<img alt="Numpy" src ="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C--lang-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=csharp&logoColor=white"/>
 
 ### 📬 Find me at
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangwon-kim-539a00196/)](https://www.linkedin.com/in/sangwon-kim-539a00196/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eddiesangwonkim@gmail.com)](mailto:eddiesangwonkim@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jumpsnack.github.io/)](https://jumpsnack.github.io/) 
+[![Web Page Badge](http://img.shields.io/badge/-Web%20Page-black?style=flat-square&logo=github&link=https://jumpsnack.github.io/)](https://jumpsnack.github.io/) &larr; **Find my recent publications**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False)
+[![github stats](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False&count_private=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=jumpsnack&show_icons=true&hide_border=False&theme=radical)
+
+
+
+
 
 ![Visitor Count](https://profile-counter.glitch.me/jumpsnack/count.svg)
+
+
 
 <!--
 **jumpsnack/jumpsnack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
