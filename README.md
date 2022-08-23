@@ -6,6 +6,7 @@
 - Post CNN
 
 ### 🚀 Languages and Tools
+<p>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 <img alt="CUDA" src ="https://img.shields.io/badge/CUDA-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white"/>
 <img alt="Pytorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
@@ -15,6 +16,8 @@
 <img alt="C" src ="https://img.shields.io/badge/C--lang-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=csharp&logoColor=white"/>
+</P>
+
 
 ### 📬 Find me at
 
