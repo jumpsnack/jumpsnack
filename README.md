@@ -12,6 +12,7 @@
 <img alt="Pytorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white"/>
 <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img alt="Scikit-learn" src ="https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=flat-square&logo=Scikit-learn&logoColor=white"/>
+  <img alt="R" src ="https://img.shields.io/badge/R-276DC3?&style=flat-square&logo=r&logoColor=white"/>
 <img alt="Numpy" src ="https://img.shields.io/badge/Numpy-013243.svg?&style=flat-square&logo=Numpy&logoColor=white"/>
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/JAVA-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/>
