@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Sangwon%20Kim👋&fontSize=80&fontAlignY=38&desc=CV/ML%20Researcher&descAlignY=60&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Sangwon%20Kim👋&fontSize=80&fontAlignY=38&desc=CV/AI%20Researcher&descAlignY=60&descAlign=50)
 
 ### 🔭 Research Interests
 - Computer Vision
