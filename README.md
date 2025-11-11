@@ -2,7 +2,6 @@
 ### 🔭 Research Interests
 - Computer Vision
 - eXplainable AI
-- Post CNN
 
 ### 🚀 Languages and Tools
 <p>
